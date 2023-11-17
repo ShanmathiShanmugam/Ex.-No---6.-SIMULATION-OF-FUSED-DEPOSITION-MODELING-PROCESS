@@ -1,6 +1,7 @@
 # Ex. No. 6 - SIMULATION OF FUSED DEPOSITION MODELING PROCESS
 
-## DATE: 
+## DATE: 17.10.2023
+
 ## AIM:
 ### To simulate the Fused Deposition Modeling (FDM) process.
 
